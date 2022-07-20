@@ -1,0 +1,22 @@
+.red-border{
+    border-right-color: red !important;
+}
+.grey-border{
+    border-right-color: rgba(31, 5, 5, 0.849) !important;
+}
+.border{
+    border-right-width: 4px !important;
+	border-right-style: solid !important;
+	
+}
+.width-md{
+    height: 100%;
+    width: 120px;
+}
+.row-height{
+    height: 40px;
+}
+.ant-table-cell{
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
